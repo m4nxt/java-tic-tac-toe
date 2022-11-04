@@ -19,7 +19,11 @@ javac Main.java
 ```console
 java Main
 ```
-Keep in mind this is made as a piece of software and is not designed to be user friendly.
+If you want to run the program without compiling for some reason, run the command
+```console
+java Main.java
+```
+Though keep in mind this is made as a piece of software and is not designed to be user friendly.
 
 #
 
